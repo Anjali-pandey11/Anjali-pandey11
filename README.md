@@ -1,77 +1,94 @@
 # <div align="center">👩‍💻 ANJALI PANDEY</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=600&height=100&lines=Web+Developer+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%8C%B8;DSA+Enthusiast+%F0%9F%92%BB;Building+Digital+Solutions+%E2%9C%A8;Learning+%26+Growing+Every+Day+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
-
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=anjali-pandey&label=Profile%20views&color=ff69b4&style=for-the-badge)](https://github.com/anjali-pandey)
-[![GitHub followers](https://img.shields.io/github/followers/anjali-pandey?label=Follow&style=for-the-badge&color=181717&logo=github)](https://github.com/anjali-pandey)
+[![Profile Views](https://komarev.com/ghpvc/?username=anjali-pandey11&label=Profile%20Views&color=ff69b4&style=for-the-badge)](https://github.com/Anjali-pandey11)
+[![GitHub followers](https://img.shields.io/github/followers/anjali-pandey11?label=Follow&style=for-the-badge&color=ff69b4&logo=github)](https://github.com/anjali-pandey11)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/yourhandle)
 
 </div>
 
 <div align="center">
-  <h2>🌟 Transforming Concepts Into Engaging Digital Products 🌟</h2>
+  <h2>🌸 Building Digital Solutions with Code & Creativity 🌸</h2>
+  <p><i>"Every expert was once a beginner. Every master was once a disaster!"</i></p>
 </div>
 
 <!-- Animated Wave SVG -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
 <table align="center">
 <tr>
 <td valign="top" width="50%">
 
-## 🔍 About Me
-> *"First, solve the problem. Then, write the code."* – John Johnson
+## 🌟 About Me
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-```typescript
+```javascript
 const Anjali = {
-    role: "Full-Stack Developer 🚀",
-    location: "India 🇮🇳",
-    currentFocus: "Building Modern Web Applications",
-    technologies: {
-        frontend: ["HTML", "CSS", "Tailwind", "JavaScript", "React"],
-        backend: ["Node.js", "Express"],
-        languages: ["JavaScript", "Java"],
-        tools: ["GitHub", "VS Code"]
+    name: "Anjali Pandey",
+    location: "Kanpur, Etawah 🇮🇳",
+    role: "Full-Stack Developer 💫",
+    currentFocus: "Next.js Auth System + DSA with Java",
+    passion: "Building Digital Solutions ✨",
+    
+    techStack: {
+        frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js"],
+        styling: ["Tailwind CSS", "Bootstrap"],
+        backend: ["Node.js", "Express.js", "MongoDB"],
+        programming: ["Java", "Python", "JavaScript"],
+        currentlyLearning: ["DSA with Java 📚", "Next.js Authentication 🔐"]
     },
-    currentlyLearning: ["Advanced React", "Backend Architecture"],
-    goals2025: [
-        "Master Full-Stack Development 🚀",
-        "Build Production-Ready Apps 🌟",
-        "Contribute to Open Source 💫"
+    
+    goals2026: [
+        "Master Data Structures & Algorithms 💪",
+        "Build 5+ Full-Stack Projects 🚀",
+        "Contribute to Open Source 🌟",
+        "Land my dream tech role 🎯"
     ],
-    lifePhilosophy: "Code with purpose, build with passion! 💫"
+    
+    motto: "Learn, Build, Share, Repeat! 🔄"
 };
 ```
 
-**🎯 Quick Facts:**
-- 🔭 **Building:** Modern Web Applications with React & Node.js
-- 🌱 **Learning:** Full-Stack Development & Best Practices
-- 💡 **Specializing:** Frontend Development & Responsive Design
-- 👩‍💻 **Available for:** Collaborations & Learning Opportunities
-- ⚡ **Secret:** I love turning ideas into reality! 💡
+**🎯 Quick Highlights:**
+- 🔭 **Currently Building:** Auth System with Next.js & Auth.js
+- 🌱 **Learning:** DSA (Java) + Advanced React Patterns
+- 💡 **Passionate About:** Creating user-friendly web apps
+- 👩‍💻 **Tech Stack:** MERN + Next.js + Java + Python
+- 📫 **Reach Me:** yourmail@example.com
+- ⚡ **Fun Fact:** I debug with coffee & music! ☕🎵
 
 </td>
 <td valign="top" width="50%">
 
 <div align="center">
-<img alt="Coding Animation" width="100%" src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&duration=3200&pause=800&color=F75C7E&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer;Backend+Dveloper">
+  <img alt="Coding Girl" width="100%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 
-<div>
-  <img width="100%" src="https://imgs.search.brave.com/pDA3Q3W7qvIo_6Y4fZf88Y0PaXCzSs-O4IDYLTuDJts/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDEyNTg4/MDQwLmpwZw">
-</div> 
+### 📈 My Coding Journey
 
-### 🚀 Developer Journey
-Started with HTML & CSS, now building full-stack applications. I believe in writing clean, meaningful code that creates great user experiences.
+```text
+🎓 Started:              2024
+💻 Projects Built:       10+
+📚 DSA Problems Solved:  100+
+🔥 Learning Streak:      Going Strong!
+```
 
-### 💪 My Approach
-Focus on building scalable, responsive web applications with attention to detail and user experience.
+### 🌱 Growth Mindset
+
+I'm on an exciting journey of becoming a skilled developer! Every day brings new challenges and learning opportunities. I believe in:
+
+- 📖 **Continuous Learning**
+- 🤝 **Community & Collaboration**
+- 💪 **Consistency Over Perfection**
+- 🚀 **Building Real-World Projects**
 
 </td>
 </tr>
@@ -79,95 +96,130 @@ Focus on building scalable, responsive web applications with attention to detail
 
 ---
 
-## 📅 Weekly Development Breakdown
+## 🎯 Current Focus & Learning Path
 
-<!--START_SECTION:waka-->
 <div align="center">
 
-```text
-JavaScript   ████████████████░░░░░   48.3%  💛
-React        ███████████░░░░░░░░░░   35.2%  ⚛️
-HTML         ███░░░░░░░░░░░░░░░░░░    9.5%  📝
-CSS          ██░░░░░░░░░░░░░░░░░░░    5.0%  🎨
-Java         █░░░░░░░░░░░░░░░░░░░░    2.0%  ☕
-```
+### 🔥 **What I'm Working On Right Now**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚀 **Active Project**
+**Next.js Authentication System**
+- 🔐 Implementing Auth.js
+- 🎨 Modern UI with Tailwind
+- 🔄 Full authentication flow
+- 📱 Responsive design
+
+**Status:** 🟢 In Progress (Started Today!)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📚 **DSA Journey**
+**Data Structures & Algorithms with Java**
+- 🌳 Trees & Graphs
+- 🔄 Sorting & Searching
+- 💡 Problem Solving
+- 🎯 Daily Practice
+
+**Status:** 🟢 Active Learning
+
+</td>
+</tr>
+</table>
 
 </div>
-<!--END_SECTION:waka-->
 
 ---
 
-## 🛠️ Tech Arsenal & Skills Matrix
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 🎨 Frontend Technologies
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
-        <br>HTML
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
-        <br>CSS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
-        <br>Tailwind CSS
-      </td>
-      <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-    </tr>
-  </table>
-</div>
+### 💻 **Languages & Technologies**
 
-### ⚙ Backend & Languages
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-        <br>Express
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
-        <br>Java
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br>JavaScript
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+<br>HTML5
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+<br>CSS3
+</td>
+</tr>
+</table>
 
-### 🚀 Tools & Development Environment
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-        <br>GitHub
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-        <br>VS Code
-      </td>
-    </tr>
-  </table>
-</div>
+### ⚛️ **Frontend Frameworks & Libraries**
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br>React
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
+<br>Tailwind CSS
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+<br>Bootstrap
+</td>
+</tr>
+</table>
+
+### 🔧 **Backend & Database**
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+<br>Express.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+<br>VS Code
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -176,51 +228,170 @@ Java         █░░░░░░░░░░░░░░░░░░░░    
 
 <div align="center">
   
-  <!-- GitHub Stats Cards -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-pandey&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anjali-pandey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="49%" />
-  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-pandey11&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anjali-pandey11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="49%" />
+
 </div>
 
 <div align="center">
   
-  <!-- Languages and Trophy -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-pandey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" alt="Top Languages" width="42%" />
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-pandey11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Top Languages" width="42%" />
+
 </div>
 
 <div align="center">
   
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=anjali-pandey&theme=radical&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
-  
+<img src="https://github-profile-trophy.vercel.app/?username=anjali-pandey11&theme=radical&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+
 </div>
 
----
-
-## 🏆 GitHub Achievement Showcase
-
 <div align="center">
-
-### 🎯 **Profile Highlights**
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjali-pandey&theme=radical" alt="Profile Summary" width="100%" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjali-pandey&theme=radical" alt="Repos per Language" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjali-pandey&theme=radical" alt="Most Commit Language" width="49%" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anjali-pandey&theme=radical" alt="Stats" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anjali-pandey&theme=radical&utcOffset=5.5" alt="Productive Time" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-pandey11&custom_title=Anjali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🎮 Developer Fuel & Fun Facts
+## 📚 Learning Journey & Progress
+
+<div align="center">
+
+### 🎯 **My Development Roadmap**
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+#### ✅ **Completed**
+- HTML5 & CSS3
+- JavaScript Fundamentals
+- React.js Basics
+- MongoDB & Express
+- Git & GitHub
+- Bootstrap & Tailwind
+
+**Status:** 🟢 Mastered
+
+</td>
+<td width="33%" valign="top" align="center">
+
+#### 🔄 **Currently Learning**
+- Next.js Framework
+- Auth.js Integration
+- DSA with Java
+- Advanced React
+- System Design Basics
+- Problem Solving
+
+**Status:** 🟡 In Progress
+
+</td>
+<td width="33%" valign="top" align="center">
+
+#### 📝 **Upcoming Goals**
+- TypeScript
+- GraphQL
+- Docker Basics
+- AWS Fundamentals
+- Testing (Jest)
+- Open Source
+
+**Status:** 🔵 Planned
+
+</td>
+</tr>
+</table>
+
+### 📈 **Monthly Coding Activity**
+
+```text
+📅 Week 1:  ████████████████░░░░  80% - DSA Practice
+📅 Week 2:  ██████████████████░░  90% - Next.js Project  
+📅 Week 3:  ███████████████░░░░░  75% - Learning & Building
+📅 Week 4:  ████████████████████  100% - Project Launch!
+```
+
+</div>
+
+---
+
+## 💭 My Developer Philosophy
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```javascript
+// My Coding Journey
+const myJourney = {
+  start: "2023",
+  
+  belief: "Every expert was once a beginner.",
+  
+  approach: {
+    learn: "Study concepts deeply",
+    practice: "Build real projects",
+    share: "Help others grow",
+    improve: "Never stop learning"
+  },
+  
+  mantra: [
+    "🌱 Learn something new every day",
+    "💪 Embrace challenges as growth",
+    "🤝 Collaborate and share knowledge",
+    "🚀 Build projects that matter",
+    "🎯 Stay consistent, stay curious"
+  ],
+  
+  goal: "Become a skilled developer who " +
+        "creates meaningful digital solutions!"
+};
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🌟 **What Drives Me**
+
+**💡 Problem Solving**  
+I love breaking down complex problems into simple, elegant solutions.
+
+**🎨 Creative Building**  
+Every project is an opportunity to create something beautiful and functional.
+
+**📚 Continuous Growth**  
+Technology evolves, and so do I! Always learning, always improving.
+
+**🤝 Community Impact**  
+Sharing knowledge and helping others on their coding journey brings me joy.
+
+<div align="center">
+
+**✨ My Current Vibe ✨**
+
+```bash
+while (alive) {
+  eat();
+  code();
+  sleep();
+  repeat();
+}
+```
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎮 Fun Developer Stats
 
 <div align="center">
 
@@ -228,16 +399,16 @@ Java         █░░░░░░░░░░░░░░░░░░░░    
 <tr>
 <td width="50%" align="center">
 
-### ☕ **My Coding Arsenal**
-<img src="https://img.shields.io/badge/☕_Tea-3-8B4513?style=for-the-badge&logo=coffeescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/🌙_Night_Owl-Coding-191970?style=for-the-badge&logo=moon&logoColor=white"/>
-<img src="https://img.shields.io/badge/💻_Code-All_Day-FF6B9D?style=for-the-badge&logo=code&logoColor=white"/>
+### ☕ **Daily Fuel**
+<img src="https://img.shields.io/badge/☕_Coffee-3+_Cups-8B4513?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎵_Music-Always_On-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_Coding-Daily-FF69B4?style=for-the-badge&logo=code&logoColor=white"/>
 
-**⚡ Productivity Stats:**
-- ☕ **Tea consumed today:** 3 cups
-- 🐛 **Bugs fixed:** ∞ (and counting...)
-- 💡 **Ideas implemented:** Many!
-- 🚀 **Projects in progress:** Always learning
+**⚡ My Coding Essentials:**
+- ☕ Coffee: 3+ cups daily
+- 🎵 Lo-fi beats on loop
+- 💡 Late night productivity
+- 🐛 Debug mode: Always ON
 
 </td>
 <td width="50%" align="center">
@@ -247,43 +418,25 @@ Java         █░░░░░░░░░░░░░░░░░░░░    
 
 <br>
 
-### 🎲 **Random Dev Facts**
+### 😄 **Dev Humor**
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
 
 </td>
 </tr>
 </table>
 
-### 🎪 **Fun Developer Stats**
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🤔_Problem_Solver-Always-FFD700?style=for-the-badge"/>
-<br><strong>Debugging Pro</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📚_Continuous_Learner-Daily-F58025?style=for-the-badge"/>
-<br><strong>Growth Mindset</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/💡_Creative_Coder-24/7-9146FF?style=for-the-badge"/>
-<br><strong>Innovation First</strong>
-</td>
-</tr>
-</table>
-
-### 🎨 **Current Mood Tracker**
+### 🏆 **Achievement Badges**
 
 <div align="center">
-<img src="https://img.shields.io/badge/😊_Mood-Coding_Mode-FF6B9D?style=for-the-badge&logo=atom&logoColor=white"/>
-<img src="https://img.shields.io/badge/🚀_Status-Building_Projects-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white"/>
-<img src="https://img.shields.io/badge/⚡_Energy-Always_Learning-FFD700?style=for-the-badge&logo=lightning&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎓_Student-Forever-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💪_DSA-In_Progress-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Builder-Active-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☕_Caffeine-Powered-8B4513?style=for-the-badge"/>
 </div>
 
 <br>
 
-*"Code, Learn, Build, Repeat!"* 💻→📚→🚀
+*"First I drink the coffee, then I code the things!"* ☕→💻→✨
 
 </div>
 
@@ -295,114 +448,155 @@ Java         █░░░░░░░░░░░░░░░░░░░░    
 
 ### 🌐 **Find Me Online**
 
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="80"/>
+<br><strong>LinkedIn</strong>
+<br>Let's Network!
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/Anjali-pandey11" target="_blank">
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="80"/>
+<br><strong>GitHub</strong>
+<br>Check My Code
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://x.com/yourhandle" target="_blank">
+<img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="80"/>
+<br><strong>Twitter</strong>
+<br>Tech Updates
+</a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:yourmail@example.com" target="_blank">
+<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="80"/>
+<br><strong>Email</strong>
+<br>Get In Touch
+</a>
+</td>
+</tr>
+</table>
+
 <br>
 
 ### 💼 **Open For Collaboration**
 
-<img src="https://img.shields.io/badge/🤝_Open_For-Collaboration-4285F4?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaboration" />
+<div align="center">
 
-### 🎯 **Interested In:**
-- 🚀 **Web Development Projects** - Frontend & Backend
-- 🤝 **Open Source Contributions** - Learning & Growing
-- 📚 **Learning Together** - Sharing knowledge
+<img src="https://img.shields.io/badge/🤝_Collaboration-Always_Welcome-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💡_Open_To-Learning_Together-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Looking_For-Project_Partners-9146FF?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+**I'm interested in:**
+- 🌟 **Open Source Projects** - Contributing to community
+- 🤝 **Collaborative Learning** - Growing together
+- 💻 **Full-Stack Development** - Building real solutions
+- 📚 **Study Partners** - DSA & System Design
 
 </div>
 
 ---
 
-## 💡 Code Philosophy & Principles
+## 💡 Words to Live By
 
 <div align="center">
 
-### 🎯 **My Development Mantras**
-
-</div>
+### 🌟 **My Favorite Quotes**
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-```javascript
-// My Coding Philosophy
-const developerMindset = {
-  codeQuality: "Write clean, readable code that 
-                others can understand and maintain.",
-  
-  problemSolving: "Break down complex problems into 
-                   simple, manageable solutions.",
-  
-  continuousLearning: "Never stop learning. Technology 
-                       evolves, and so should we.",
-  
-  userFirst: "Every line of code should enhance 
-             the user experience.",
-             
-  collaboration: "Great things are built together.
-                  Share knowledge, grow together."
-};
-```
+*"The only way to do great work is to love what you do."*
+
+**- Steve Jobs**
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🏗️ **My Approach**
-- **📐 Clean Code:** Readable, maintainable, scalable
-- **🔄 Best Practices:** Following industry standards
-- **🎨 Design First:** User experience matters
-- **📱 Responsive:** Mobile-first approach
+*"Code is like humor. When you have to explain it, it's bad."*
 
-### 🌱 **Growth Mindset**
-```bash
-while (alive) {
-  learn();
-  code();
-  improve();
-  share();
-}
-```
+**- Cory House**
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+*"First, solve the problem. Then, write the code."*
+
+**- John Johnson**
+
+</td>
+<td align="center" width="50%">
+
+*"Learning never exhausts the mind."*
+
+**- Leonardo da Vinci**
 
 </td>
 </tr>
 </table>
 
+### ✨ **My Personal Mantra**
+
+```javascript
+function myJourneyMantra() {
+  const success = consistency + patience + passion;
+  return "Dream it. Code it. Ship it. Repeat! 🚀";
+}
+```
+
+</div>
+
 ---
 
-## 🎯 Call to Action
+## 📫 Let's Build Something Amazing Together!
 
 <div align="center">
 
-### 🤝 **Let's Build Something Amazing Together!**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Let's+collaborate+and+create!;Learning+and+growing+every+day;Your+ideas+can+become+reality;Ready+to+build+together!" alt="Call to Action" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%96;Let's+connect+and+grow+together!+%F0%9F%8C%B1;Always+open+to+new+opportunities!+%F0%9F%9A%80;Feel+free+to+reach+out!+%E2%9C%89%EF%B8%8F" alt="Closing Message" />
 
 <br><br>
 
-*Whether you're looking for:*
-- 💼 A passionate developer to collaborate with
-- 🤝 A teammate for your next project
-- 📚 Someone to learn and grow with
+### 🎯 **Ready to Collaborate?**
 
-*Let's connect!*
+<a href="mailto:yourmail@example.com?subject=Let's%20Collaborate!&body=Hi%20Anjali,%0A%0AI'd%20love%20to%20connect...">
+  <img src="https://img.shields.io/badge/💌_Say_Hello-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello" />
+</a>
+<a href="https://github.com/Anjali-pandey11">
+  <img src="https://img.shields.io/badge/⭐_Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me" />
+</a>
+
+<br><br>
+
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&text=&fontSize=0" width="100%"/>
+
+<br>
+
+*✨ If you found this profile helpful, don't forget to star it! ⭐*
+
+<br>
+
+<img src="https://img.shields.io/github/last-commit/anjali-pandey11/anjali-pandey11?style=flat&color=FF69B4&label=Profile%20Last%20Updated"/>
+
+<br><br>
+
+**💖 Made with Love, Code & Coffee by Anjali Pandey 💖**
 
 </div>
 
 ---
 
 <div align="center">
-
-<!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0" width="100%"/>
-
-### 🌟 **Thanks for visiting my profile!** 🌟
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=⭐+From+Anjali+Pandey+with+💻+and+☕;Let's+connect+and+build+together!;Always+learning%2C+always+growing...;Code+%7C+Create+%7C+Inspire+%7C+Repeat" alt="Footer Typing SVG" />
-
-<br>
-
-*🔥 Pro Tip:* Star this repository if you found it helpful!
-
-<br>
-
-*Last Updated:* ![Last Updated](https://img.shields.io/github/last-commit/anjali-pandey/anjali-pandey?style=flat&color=FF6B9D&label=Profile%20Updated)
-
+  <img src="https://komarev.com/ghpvc/?username=anjali-pandey11&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </div>
