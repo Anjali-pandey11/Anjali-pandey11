@@ -451,7 +451,7 @@ while (alive) {
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+<a href="https://www.linkedin.com/in/anjali-pandey06" target="_blank">
 <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="80"/>
 <br><strong>LinkedIn</strong>
 <br>Let's Network!
@@ -464,15 +464,9 @@ while (alive) {
 <br>Check My Code
 </a>
 </td>
+
 <td align="center" width="25%">
-<a href="https://x.com/yourhandle" target="_blank">
-<img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="80"/>
-<br><strong>Twitter</strong>
-<br>Tech Updates
-</a>
-</td>
-<td align="center" width="25%">
-<a href="mailto:yourmail@example.com" target="_blank">
+<a href="pandeyanjali7906@gmail.com" target="_blank">
 <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="80"/>
 <br><strong>Email</strong>
 <br>Get In Touch
